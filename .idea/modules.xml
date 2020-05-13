@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20.01.08day/20.01.08day.iml" filepath="$PROJECT_DIR$/20.01.08day/20.01.08day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20.01.11day/20.01.11day.iml" filepath="$PROJECT_DIR$/20.01.11day/20.01.11day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20.01.13day/20.01.13day.iml" filepath="$PROJECT_DIR$/20.01.13day/20.01.13day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20.01.15day/20.01.15day.iml" filepath="$PROJECT_DIR$/20.01.15day/20.01.15day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20.month02/20.month02.iml" filepath="$PROJECT_DIR$/20.month02/20.month02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.singleton/demo.singleton.iml" filepath="$PROJECT_DIR$/demo.singleton/demo.singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstProj/firstProj.iml" filepath="$PROJECT_DIR$/firstProj/firstProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.shangguigu.learn.iml" filepath="$PROJECT_DIR$/java.shangguigu.learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithread/multithread.iml" filepath="$PROJECT_DIR$/multithread/multithread.iml" />
+    </modules>
+  </component>
+</project>
